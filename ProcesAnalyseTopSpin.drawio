@@ -76,7 +76,12 @@
           <mxGeometry x="530" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CPJxvzgiXUTDGn7HIkdh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPJxvzgiXUTDGn7HIkdh-39" target="CPJxvzgiXUTDGn7HIkdh-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="200" />
+              <mxPoint x="670" y="165" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CPJxvzgiXUTDGn7HIkdh-39" value="Administratie" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="40" height="80" as="geometry" />
