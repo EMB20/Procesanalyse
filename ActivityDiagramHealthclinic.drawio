@@ -9,13 +9,14 @@
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCN9z8qDyLGh1947xGpQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wCN9z8qDyLGh1947xGpQ-38" source="wCN9z8qDyLGh1947xGpQ-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="100" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wCN9z8qDyLGh1947xGpQ-38" source="wCN9z8qDyLGh1947xGpQ-40" target="wCN9z8qDyLGh1947xGpQ-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-40" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-38">
-          <mxGeometry x="80" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wCN9z8qDyLGh1947xGpQ-38" source="wCN9z8qDyLGh1947xGpQ-36" target="wCN9z8qDyLGh1947xGpQ-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-36" value="Registreer" style="" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-38">
           <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
@@ -32,7 +33,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-59" value="Invoeren gegevens" style="" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-55">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-63" value="Gegevens opslaan" style="" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-55">
+          <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-58" value="Behandelaar" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="200" height="570" as="geometry">
@@ -44,8 +48,14 @@
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCN9z8qDyLGh1947xGpQ-63" value="Gegevens opslaan" style="" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-62">
-          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCN9z8qDyLGh1947xGpQ-37" target="wCN9z8qDyLGh1947xGpQ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCN9z8qDyLGh1947xGpQ-59" target="wCN9z8qDyLGh1947xGpQ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCN9z8qDyLGh1947xGpQ-60" target="wCN9z8qDyLGh1947xGpQ-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
