@@ -164,8 +164,14 @@
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="74A-fowzvef33uYQnXly-8" source="74A-fowzvef33uYQnXly-9" target="74A-fowzvef33uYQnXly-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-9" value="Gegevens opslaan" style="" vertex="1" parent="74A-fowzvef33uYQnXly-8">
           <mxGeometry x="40" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-72" value="Ophalen gegevens" style="" vertex="1" parent="74A-fowzvef33uYQnXly-8">
+          <mxGeometry x="40" y="469.94" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCN9z8qDyLGh1947xGpQ-37" target="wCN9z8qDyLGh1947xGpQ-59">
           <mxGeometry relative="1" as="geometry">
@@ -209,6 +215,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="74A-fowzvef33uYQnXly-3" target="74A-fowzvef33uYQnXly-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="74A-fowzvef33uYQnXly-2" target="74A-fowzvef33uYQnXly-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
