@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Pagina-1" id="ab94C8zGq4wiaq_6U2x9">
-    <mxGraphModel dx="1000" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wCN9z8qDyLGh1947xGpQ-38" value="Cliënt" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="200" height="880" as="geometry">
+          <mxGeometry x="40" y="40" width="200" height="920" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -31,7 +31,7 @@
           <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-55" value="Baliemedewerker" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="40" width="200" height="880" as="geometry">
+          <mxGeometry x="240" y="40" width="200" height="920" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -45,7 +45,7 @@
           <mxGeometry x="-160" y="490" width="520" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-58" value="Behandelaar" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="200" height="880" as="geometry">
+          <mxGeometry x="440" y="40" width="200" height="920" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-62" value="Zorgverzekeraar" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="40" width="200" height="880" as="geometry">
+          <mxGeometry x="640" y="40" width="200" height="920" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-8" value="Patiëntvolgsysteem (PVS)" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="40" width="200" height="880" as="geometry">
+          <mxGeometry x="840" y="40" width="200" height="920" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-36" value="Opslaan &#xa;behandelsgegevens" style="" vertex="1" parent="74A-fowzvef33uYQnXly-8">
           <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-46" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="74A-fowzvef33uYQnXly-8">
+          <mxGeometry x="85" y="870" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCN9z8qDyLGh1947xGpQ-37" target="wCN9z8qDyLGh1947xGpQ-59">
           <mxGeometry relative="1" as="geometry">
@@ -171,6 +174,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="74A-fowzvef33uYQnXly-14" target="74A-fowzvef33uYQnXly-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
