@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Pagina-1" id="ab94C8zGq4wiaq_6U2x9">
-    <mxGraphModel dx="778" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="525" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-36" value="Registreer" style="" parent="wCN9z8qDyLGh1947xGpQ-38" vertex="1">
-          <mxGeometry x="40" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCN9z8qDyLGh1947xGpQ-37" value="Verstrek gegevens" style="" parent="wCN9z8qDyLGh1947xGpQ-38" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="30" as="geometry" />
@@ -99,12 +99,6 @@
         <mxCell id="74A-fowzvef33uYQnXly-5" value="Opslaan &#xa;behandelsgegevens" style="" parent="wCN9z8qDyLGh1947xGpQ-55" vertex="1">
           <mxGeometry x="240" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="74A-fowzvef33uYQnXly-10" value="Versturen kopie &#xa;behandelsgegevens &#xa;en factuur" style="" parent="wCN9z8qDyLGh1947xGpQ-55" vertex="1">
-          <mxGeometry x="640" y="770" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="74A-fowzvef33uYQnXly-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="wCN9z8qDyLGh1947xGpQ-55" source="74A-fowzvef33uYQnXly-36" target="74A-fowzvef33uYQnXly-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-36" value="Opslaan &#xa;behandelsgegevens" style="" parent="wCN9z8qDyLGh1947xGpQ-55" vertex="1">
           <mxGeometry x="640" y="710" width="120" height="40" as="geometry" />
         </mxCell>
@@ -151,13 +145,19 @@
           <mxGeometry x="40" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;rotation=90;" parent="74A-fowzvef33uYQnXly-8" vertex="1">
-          <mxGeometry y="790" width="40" height="10" as="geometry" />
+          <mxGeometry y="800" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-46" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" parent="74A-fowzvef33uYQnXly-8" vertex="1">
           <mxGeometry x="85" y="1020" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="74A-fowzvef33uYQnXly-8" source="74A-fowzvef33uYQnXly-14" target="74A-fowzvef33uYQnXly-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1Wz78-ySI5BiyphskOQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="74A-fowzvef33uYQnXly-8" source="74A-fowzvef33uYQnXly-10" target="74A-fowzvef33uYQnXly-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-10" value="Versturen kopie &#xa;behandelsgegevens &#xa;en factuur" style="" parent="74A-fowzvef33uYQnXly-8" vertex="1">
+          <mxGeometry x="40" y="780" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wCN9z8qDyLGh1947xGpQ-37" target="wCN9z8qDyLGh1947xGpQ-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -209,13 +209,13 @@
         <mxCell id="74A-fowzvef33uYQnXly-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74A-fowzvef33uYQnXly-39" target="74A-fowzvef33uYQnXly-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="74A-fowzvef33uYQnXly-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74A-fowzvef33uYQnXly-10" target="74A-fowzvef33uYQnXly-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74A-fowzvef33uYQnXly-11" target="74A-fowzvef33uYQnXly-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="74A-fowzvef33uYQnXly-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74A-fowzvef33uYQnXly-3" target="74A-fowzvef33uYQnXly-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74A-fowzvef33uYQnXly-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74A-fowzvef33uYQnXly-36" target="74A-fowzvef33uYQnXly-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
