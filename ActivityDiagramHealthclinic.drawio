@@ -61,7 +61,7 @@
         <mxCell id="74A-fowzvef33uYQnXly-5" value="Opslaan &#xa;behandelsgegevens" style="" vertex="1" parent="wCN9z8qDyLGh1947xGpQ-58">
           <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCN9z8qDyLGh1947xGpQ-62" value="Patiëntvolgsysteem (PVS)" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
+        <mxCell id="wCN9z8qDyLGh1947xGpQ-62" value="Zorgverzekeraar" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="200" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
