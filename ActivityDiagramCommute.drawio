@@ -39,7 +39,7 @@
             <mxPoint x="226" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zm_LqfkJ5ou8P4qoFPxn-50" value="File &#xa;onderweg" style="rhombus;fillColor=default;strokeColor=default;" parent="zm_LqfkJ5ou8P4qoFPxn-41" vertex="1">
+        <mxCell id="zm_LqfkJ5ou8P4qoFPxn-50" value="File &#xa;onderweg" style="rhombus;fillColor=default;strokeColor=default;verticalAlign=middle;spacingBottom=10;spacing=2;spacingTop=0;" parent="zm_LqfkJ5ou8P4qoFPxn-41" vertex="1">
           <mxGeometry x="96.25" y="250" width="87.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zm_LqfkJ5ou8P4qoFPxn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="zm_LqfkJ5ou8P4qoFPxn-41" source="zm_LqfkJ5ou8P4qoFPxn-52" target="zm_LqfkJ5ou8P4qoFPxn-54" edge="1">
