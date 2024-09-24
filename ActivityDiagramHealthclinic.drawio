@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16" pages="4">
   <diagram name="Test" id="ab94C8zGq4wiaq_6U2x9">
     <mxGraphModel dx="3338" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1384,6 +1384,35 @@
               <mxPoint x="1900" y="1080" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Pagina-4">
+    <mxGraphModel dx="1306" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KrEiF8uF3WtHDuGytU1U-1" value="Doe aangifte" style="" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrEiF8uF3WtHDuGytU1U-2" value="Burger" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MWotaMyhgNjN3c92S6KX-1" value="Voldoende&#xa;aanknopingspunten" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=9;spacingBottom=2;" vertex="1" parent="KrEiF8uF3WtHDuGytU1U-2">
+          <mxGeometry x="56.25" y="140" width="113.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MWotaMyhgNjN3c92S6KX-5" value="Ernst&#xa;strafbaar feit" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=9;spacingBottom=2;" vertex="1" parent="KrEiF8uF3WtHDuGytU1U-2">
+          <mxGeometry x="46.25" y="260" width="113.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MWotaMyhgNjN3c92S6KX-6" value="Bezwaar officier justitie" style="" vertex="1" parent="KrEiF8uF3WtHDuGytU1U-2">
+          <mxGeometry x="30" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MWotaMyhgNjN3c92S6KX-2" value="Administratie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MWotaMyhgNjN3c92S6KX-4" value="Aangiften opslaan" style="" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
+          <mxGeometry x="40" y="220" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
