@@ -1296,6 +1296,9 @@
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-55" value="Bevindingen &#xa;toevoegen" style="" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-17">
           <mxGeometry x="40" y="555" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qiNKLzgrkxS3JmlgRQvc-62" value="[Wel gegevens]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-17">
+          <mxGeometry x="105" y="460" width="90" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-24" value="PVS applicatie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="40" width="310" height="1120" as="geometry" />
         </mxCell>
