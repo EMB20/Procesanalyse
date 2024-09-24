@@ -715,7 +715,7 @@
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nkv6xejd2enFBqqSO94m-6" value="Controleer&#xa;record" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;spacingBottom=2;" vertex="1" parent="NbkNRjI3ZdLp4hMfBNYS-1">
-          <mxGeometry x="56.25" y="650" width="87.5" height="60" as="geometry" />
+          <mxGeometry x="56.25" y="630" width="87.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-5" value="Specialist" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="200" height="800" as="geometry" />
@@ -792,6 +792,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_KTQyW_PM3EnTwiKP03W-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Nkv6xejd2enFBqqSO94m-5" target="Nkv6xejd2enFBqqSO94m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KTQyW_PM3EnTwiKP03W-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nkv6xejd2enFBqqSO94m-4" target="Nkv6xejd2enFBqqSO94m-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
