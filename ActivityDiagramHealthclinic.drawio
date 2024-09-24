@@ -701,7 +701,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0O8HOqsrfPeOIN3Mtimj" name="Pagina-2">
-    <mxGraphModel dx="1581" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1230,14 +1230,8 @@
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-32" value="[Record incorrect]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-17">
           <mxGeometry y="890" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qiNKLzgrkxS3JmlgRQvc-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="qiNKLzgrkxS3JmlgRQvc-17" source="qiNKLzgrkxS3JmlgRQvc-34" target="qiNKLzgrkxS3JmlgRQvc-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-34" value="Records actief maken" style="" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-17">
           <mxGeometry x="240" y="1020" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qiNKLzgrkxS3JmlgRQvc-35" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-17">
-          <mxGeometry x="285" y="1090" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-36" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qiNKLzgrkxS3JmlgRQvc-17" source="qiNKLzgrkxS3JmlgRQvc-43" target="qiNKLzgrkxS3JmlgRQvc-29">
           <mxGeometry relative="1" as="geometry" />
@@ -1326,6 +1320,9 @@
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-58" value="Gegevens toevoegen" style="" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-24">
           <mxGeometry x="180" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qiNKLzgrkxS3JmlgRQvc-35" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="qiNKLzgrkxS3JmlgRQvc-24">
+          <mxGeometry x="85" y="1070" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-45" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="qiNKLzgrkxS3JmlgRQvc-25" target="qiNKLzgrkxS3JmlgRQvc-19" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1355,10 +1352,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiNKLzgrkxS3JmlgRQvc-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="qiNKLzgrkxS3JmlgRQvc-55" target="qiNKLzgrkxS3JmlgRQvc-58">
+        <mxCell id="qiNKLzgrkxS3JmlgRQvc-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qiNKLzgrkxS3JmlgRQvc-55" target="qiNKLzgrkxS3JmlgRQvc-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1880" y="650" />
+              <mxPoint x="1900" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1369,6 +1366,9 @@
               <mxPoint x="1700" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qiNKLzgrkxS3JmlgRQvc-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="qiNKLzgrkxS3JmlgRQvc-34" target="qiNKLzgrkxS3JmlgRQvc-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
