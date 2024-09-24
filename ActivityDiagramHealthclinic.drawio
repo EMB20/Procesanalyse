@@ -410,7 +410,7 @@
           <mxGeometry x="40" y="60" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-18" value="Behandelaar" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="80" width="160" height="640" as="geometry">
+          <mxGeometry x="880" y="80" width="160" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -473,7 +473,7 @@
           <mxGeometry x="20" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-6" value="Cliënt" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="80" width="160" height="640" as="geometry">
+          <mxGeometry x="720" y="80" width="160" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -512,7 +512,7 @@
           <mxGeometry x="20" y="550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-24" value="Patiëntvolgsysteem" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="80" width="159" height="640" as="geometry">
+          <mxGeometry x="1040" y="80" width="159" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -529,7 +529,7 @@
           <mxGeometry x="19.5" y="450" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-26" value="Zorgverzekeraar" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1199" y="80" width="160" height="640" as="geometry">
+          <mxGeometry x="1199" y="80" width="160" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -537,7 +537,7 @@
           <mxGeometry x="20" y="560" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-27" value="Financieel medewerker" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1359" y="80" width="160" height="640" as="geometry">
+          <mxGeometry x="1359" y="80" width="160" height="760" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
