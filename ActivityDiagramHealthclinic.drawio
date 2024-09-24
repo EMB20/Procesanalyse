@@ -225,7 +225,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpDzR2T_dGjOr2Wi2WWp" name="Opdracht-3">
-    <mxGraphModel dx="2146" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,6 +582,9 @@
         </mxCell>
         <mxCell id="5OqPOq83BKe1gQISaDqz-19" value="Meldt bij &#xa;behandelaar" style="" vertex="1" parent="5OqPOq83BKe1gQISaDqz-47">
           <mxGeometry x="19.5" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wfaWadCYetXbVyZAkpkA-1" value="Activiteiten dus tenzij je iets gaat doen niet nodig" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5OqPOq83BKe1gQISaDqz-47">
+          <mxGeometry x="19.5" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OqPOq83BKe1gQISaDqz-48" value="Patiëntvolgsysteem" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="1040.25" y="980" width="159.75" height="940" as="geometry">
