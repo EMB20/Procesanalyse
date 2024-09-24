@@ -839,7 +839,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_KTQyW_PM3EnTwiKP03W-31" value="Cliënt" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="200" height="880" as="geometry" />
+          <mxGeometry x="760" y="40" width="200" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="_KTQyW_PM3EnTwiKP03W-32" value="Meldt bij specialist" style="" vertex="1" parent="_KTQyW_PM3EnTwiKP03W-31">
           <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
@@ -962,6 +962,9 @@
         <mxCell id="_KTQyW_PM3EnTwiKP03W-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="_KTQyW_PM3EnTwiKP03W-46" source="_KTQyW_PM3EnTwiKP03W-55" target="_KTQyW_PM3EnTwiKP03W-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yovKVQK5DzAf2HF0ojeq-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="_KTQyW_PM3EnTwiKP03W-46" source="yovKVQK5DzAf2HF0ojeq-5" target="yovKVQK5DzAf2HF0ojeq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yovKVQK5DzAf2HF0ojeq-5" value="Gegevens &#xa;toevoegen" style="" vertex="1" parent="_KTQyW_PM3EnTwiKP03W-46">
           <mxGeometry x="20" y="620" width="80" height="30" as="geometry" />
         </mxCell>
@@ -995,6 +998,9 @@
               <mxPoint x="104" y="380" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yovKVQK5DzAf2HF0ojeq-14" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="_KTQyW_PM3EnTwiKP03W-46">
+          <mxGeometry x="45" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_KTQyW_PM3EnTwiKP03W-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KTQyW_PM3EnTwiKP03W-47" target="_KTQyW_PM3EnTwiKP03W-39">
           <mxGeometry relative="1" as="geometry" />
