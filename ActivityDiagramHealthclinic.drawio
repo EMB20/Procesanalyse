@@ -308,12 +308,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpDzR2T_dGjOr2Wi2WWp" name="Pagina-3">
-    <mxGraphModel dx="1328" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0XZFZR7Ml0UfXhE79aCT-23" value="Baliemedewerker" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;fillColor=#FFFFFF;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="200" height="520" as="geometry">
+          <mxGeometry x="240" y="80" width="200" height="520" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -388,7 +388,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0XZFZR7Ml0UfXhE79aCT-32" value="Patiëntvolgsysteem (PVS)" style="swimlane;whiteSpace=wrap;startSize=23;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="200" height="520" as="geometry">
+          <mxGeometry x="440" y="80" width="200" height="520" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -397,8 +397,17 @@
         </mxCell>
         <mxCell id="0XZFZR7Ml0UfXhE79aCT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0XZFZR7Ml0UfXhE79aCT-33" target="0XZFZR7Ml0UfXhE79aCT-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="470" as="sourcePoint" />
+            <mxPoint x="540" y="510" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-1" value="Hoofdstuk 6.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fillColor=default;strokeColor=default;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Opdracht 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activiteiten diagram cliënt registreert&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
