@@ -308,7 +308,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpDzR2T_dGjOr2Wi2WWp" name="Pagina-3">
-    <mxGraphModel dx="955" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,6 +408,51 @@
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activiteiten diagram cliënt registreert&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-18" value="Behandelaar" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="160" height="520" as="geometry">
+            <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLNfTCKG4KEtlx4k9l_p-1" value="Vraag gegevens op" style="" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-18">
+          <mxGeometry x="20" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-6" value="Cliënt" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="160" height="520" as="geometry">
+            <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sRgZeW1qYFrOroi4wssI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r4sDcAnFkyWO_QHA1_-d-6" source="Gt6Yx067oCnjts8vzHUR-1" target="sRgZeW1qYFrOroi4wssI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt6Yx067oCnjts8vzHUR-1" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-6">
+          <mxGeometry x="60" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sRgZeW1qYFrOroi4wssI-1" value="Meldt bij &#xa;behandelaar" style="" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-6">
+          <mxGeometry x="30" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-24" value="Patiëntvolgsysteem" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="80" width="159" height="520" as="geometry">
+            <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-26" value="Zorgverzekeraar" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="80" width="160" height="520" as="geometry">
+            <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4sDcAnFkyWO_QHA1_-d-27" value="Financieel medewerker" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="80" width="160" height="520" as="geometry">
+            <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLNfTCKG4KEtlx4k9l_p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRgZeW1qYFrOroi4wssI-1" target="XLNfTCKG4KEtlx4k9l_p-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="220" />
+              <mxPoint x="960" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
