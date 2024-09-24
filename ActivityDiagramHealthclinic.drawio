@@ -225,12 +225,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0O8HOqsrfPeOIN3Mtimj" name="Pagina-2">
-    <mxGraphModel dx="1290" dy="-604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-1" value="Cliënt" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1200" width="200" height="530" as="geometry" />
+          <mxGeometry x="40" y="40" width="200" height="530" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-2" value="Meldt bij specialist" style="" vertex="1" parent="NbkNRjI3ZdLp4hMfBNYS-1">
           <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-5" value="Specialist" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1200" width="200" height="530" as="geometry" />
+          <mxGeometry x="240" y="40" width="200" height="530" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-6" value="Login" style="" vertex="1" parent="NbkNRjI3ZdLp4hMfBNYS-5">
           <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="40" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-10" value="PVS applicatie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1200" width="200" height="530" as="geometry" />
+          <mxGeometry x="440" y="40" width="200" height="530" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="NbkNRjI3ZdLp4hMfBNYS-10" source="NbkNRjI3ZdLp4hMfBNYS-12">
           <mxGeometry relative="1" as="geometry">
@@ -285,8 +285,8 @@
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbkNRjI3ZdLp4hMfBNYS-2" target="NbkNRjI3ZdLp4hMfBNYS-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="1330" />
-              <mxPoint x="340" y="1330" />
+              <mxPoint x="140" y="170" />
+              <mxPoint x="340" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -296,10 +296,13 @@
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbkNRjI3ZdLp4hMfBNYS-12" target="NbkNRjI3ZdLp4hMfBNYS-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="1430" />
-              <mxPoint x="340" y="1430" />
+              <mxPoint x="540" y="270" />
+              <mxPoint x="340" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7H7f-419OmzAt11lVRm7-1" value="Activity diagram 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="275" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
