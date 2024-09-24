@@ -308,7 +308,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dpDzR2T_dGjOr2Wi2WWp" name="Pagina-3">
-    <mxGraphModel dx="679" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,23 +528,13 @@
         <mxCell id="s4ZW1dPZ_cf97_janwcl-1" value="Versturen kopie &#xa;behandelsgegevens &#xa;en factuur" style="" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-24">
           <mxGeometry x="19.5" y="450" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R51Tz3ACYGVe2ypNskah-1" value="Ontvangen kopie &#xa;behandelsgegevens &#xa;en factuur" style="" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-24">
-          <mxGeometry x="19.5" y="550" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="R51Tz3ACYGVe2ypNskah-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r4sDcAnFkyWO_QHA1_-d-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79.41000000000008" y="530" as="sourcePoint" />
-            <mxPoint x="79.41000000000008" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="79.41000000000008" y="540" />
-              <mxPoint x="79.41000000000008" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-26" value="Zorgverzekeraar" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="1199" y="80" width="160" height="640" as="geometry">
             <mxRectangle x="40" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R51Tz3ACYGVe2ypNskah-1" value="Ontvangen kopie &#xa;behandelsgegevens &#xa;en factuur" style="" vertex="1" parent="r4sDcAnFkyWO_QHA1_-d-26">
+          <mxGeometry x="20" y="560" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r4sDcAnFkyWO_QHA1_-d-27" value="Financieel medewerker" style="swimlane;whiteSpace=wrap;startSize=20;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="1359" y="80" width="160" height="640" as="geometry">
@@ -573,10 +563,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Fy9WCmsS9AiLY5-7LNI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="740" y="600" width="440" height="10" as="geometry" />
+        <mxCell id="PwBwnCwKsTWv3CeatTs0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.899;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Fy9WCmsS9AiLY5-7LNI-1" target="R51Tz3ACYGVe2ypNskah-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4Fy9WCmsS9AiLY5-7LNI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.862;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s4ZW1dPZ_cf97_janwcl-1" target="4Fy9WCmsS9AiLY5-7LNI-1">
+        <mxCell id="4Fy9WCmsS9AiLY5-7LNI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="600" width="600" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PwBwnCwKsTWv3CeatTs0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.633;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s4ZW1dPZ_cf97_janwcl-1" target="4Fy9WCmsS9AiLY5-7LNI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
