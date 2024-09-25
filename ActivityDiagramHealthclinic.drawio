@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0O8HOqsrfPeOIN3Mtimj" name="Opdracht4&amp;5">
-    <mxGraphModel dx="782" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -919,14 +919,14 @@
         <mxCell id="qiNKLzgrkxS3JmlgRQvc-1" value="Toestemming" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;spacingBottom=2;" parent="NbkNRjI3ZdLp4hMfBNYS-1" vertex="1">
           <mxGeometry x="56.25" y="480" width="87.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qiNKLzgrkxS3JmlgRQvc-6" value="[Ja]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NbkNRjI3ZdLp4hMfBNYS-1" vertex="1">
-          <mxGeometry x="100" y="540" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SiVcKAjmY-UBEYO3hLsh-5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" parent="NbkNRjI3ZdLp4hMfBNYS-1" vertex="1">
           <mxGeometry x="20" y="560" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiVcKAjmY-UBEYO3hLsh-7" value="[Nee]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NbkNRjI3ZdLp4hMfBNYS-1" vertex="1">
-          <mxGeometry x="40" y="520" width="30" height="20" as="geometry" />
+        <mxCell id="2e0ucxAhanCmA9Ljucz3-1" value="[Wel toestemming]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="NbkNRjI3ZdLp4hMfBNYS-1">
+          <mxGeometry x="100" y="540" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2e0ucxAhanCmA9Ljucz3-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Geen&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;toestemming]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="NbkNRjI3ZdLp4hMfBNYS-1">
+          <mxGeometry y="475" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbkNRjI3ZdLp4hMfBNYS-5" value="Specialist" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="200" height="1000" as="geometry" />
