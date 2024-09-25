@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0O8HOqsrfPeOIN3Mtimj" name="Opdracht4&amp;5">
-    <mxGraphModel dx="992" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1392,6 +1392,9 @@
         <mxCell id="imV-cHdlOZaDqWaUKKYc-7" value="[Ja]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-1">
           <mxGeometry x="100" y="650" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="imV-cHdlOZaDqWaUKKYc-19" value="[Record correct]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-1">
+          <mxGeometry x="110" y="940" width="90" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="imV-cHdlOZaDqWaUKKYc-8" value="Specialist" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1260" width="200" height="1130" as="geometry" />
         </mxCell>
@@ -1429,9 +1432,6 @@
         </mxCell>
         <mxCell id="imV-cHdlOZaDqWaUKKYc-18" value="Controleer&#xa;record" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;spacingBottom=2;" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-8">
           <mxGeometry x="-143.75" y="880" width="87.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="imV-cHdlOZaDqWaUKKYc-19" value="[Record correct]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-8">
-          <mxGeometry x="-100" y="940" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="imV-cHdlOZaDqWaUKKYc-20" value="Records actief &#xa;maken" style="" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-8">
           <mxGeometry x="40" y="970" width="120" height="40" as="geometry" />
