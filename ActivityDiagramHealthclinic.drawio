@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Opdracht6">
-    <mxGraphModel dx="949" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1607,7 +1607,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-14" value="Bericht aangifte&#xa;behandeling status" style="" vertex="1" parent="KrEiF8uF3WtHDuGytU1U-2">
-          <mxGeometry x="40" y="660" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="KrEiF8uF3WtHDuGytU1U-2" source="LnYJTqfKLHf4NxImGPWm-53" target="LnYJTqfKLHf4NxImGPWm-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1681,7 +1681,7 @@
           <mxGeometry x="40" y="290" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-24" value="Proces-verbaal&#xa;voorleggen" style="" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
-          <mxGeometry x="40" y="400" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YQ5rsVeBj5X3KzNJfwbD-3" source="LnYJTqfKLHf4NxImGPWm-26" target="LnYJTqfKLHf4NxImGPWm-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1746,7 +1746,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LnYJTqfKLHf4NxImGPWm-24" target="LnYJTqfKLHf4NxImGPWm-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="LnYJTqfKLHf4NxImGPWm-29" target="LnYJTqfKLHf4NxImGPWm-53">
           <mxGeometry relative="1" as="geometry">
