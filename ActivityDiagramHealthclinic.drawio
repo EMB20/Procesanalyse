@@ -1587,15 +1587,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Opdracht6">
-    <mxGraphModel dx="791" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KrEiF8uF3WtHDuGytU1U-2" value="Burger" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="200" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="MWotaMyhgNjN3c92S6KX-6" value="Bezwaar officier justitie" style="" parent="KrEiF8uF3WtHDuGytU1U-2" vertex="1">
-          <mxGeometry x="30" y="350" width="120" height="30" as="geometry" />
+        <mxCell id="MWotaMyhgNjN3c92S6KX-6" value="Bezwaar brief &#xa;officier justitie" style="" parent="KrEiF8uF3WtHDuGytU1U-2" vertex="1">
+          <mxGeometry x="40" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7KnJuEagsJhLHG48TEAe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KrEiF8uF3WtHDuGytU1U-2" source="7KnJuEagsJhLHG48TEAe-1" target="KrEiF8uF3WtHDuGytU1U-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1606,29 +1606,52 @@
         <mxCell id="KrEiF8uF3WtHDuGytU1U-1" value="Doe aangifte" style="" parent="KrEiF8uF3WtHDuGytU1U-2" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KrEiF8uF3WtHDuGytU1U-2" source="LnYJTqfKLHf4NxImGPWm-14" target="MWotaMyhgNjN3c92S6KX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-14" value="Bericht aangifte&#xa;behandeling status" style="" vertex="1" parent="KrEiF8uF3WtHDuGytU1U-2">
+          <mxGeometry x="40" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-2" value="Administratie" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="200" height="760" as="geometry" />
         </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-4" value="Aangifte opslaan" style="" parent="MWotaMyhgNjN3c92S6KX-2" vertex="1">
-          <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7KnJuEagsJhLHG48TEAe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MWotaMyhgNjN3c92S6KX-2" source="MWotaMyhgNjN3c92S6KX-1" target="MWotaMyhgNjN3c92S6KX-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="40" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-1" value="Voldoende&#xa;aanknopingspunten" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=9;spacingBottom=2;" parent="MWotaMyhgNjN3c92S6KX-2" vertex="1">
-          <mxGeometry x="43.13" y="160" width="113.75" height="70" as="geometry" />
+          <mxGeometry x="43.13" y="160" width="113.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MWotaMyhgNjN3c92S6KX-2" source="MWotaMyhgNjN3c92S6KX-1" target="LnYJTqfKLHf4NxImGPWm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="260" />
+              <mxPoint x="70" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9-VKJxjSEDxme5Yo28eO-1" value="[Onvoldoende]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
-          <mxGeometry x="100" y="230" width="90" height="20" as="geometry" />
+          <mxGeometry x="10" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MWotaMyhgNjN3c92S6KX-2" source="LnYJTqfKLHf4NxImGPWm-2" target="MWotaMyhgNjN3c92S6KX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
+          <mxGeometry x="40" y="290" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-10" value="[Niet ernstig]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
+          <mxGeometry x="130" y="230" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YQ5rsVeBj5X3KzNJfwbD-3" value="Politie" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="200" height="760" as="geometry" />
         </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-5" value="Ernst&#xa;strafbaar feit" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=9;spacingBottom=2;" parent="YQ5rsVeBj5X3KzNJfwbD-3" vertex="1">
-          <mxGeometry x="43.13" y="210" width="113.75" height="70" as="geometry" />
+          <mxGeometry x="43.13" y="210" width="113.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9-VKJxjSEDxme5Yo28eO-2" value="[Voldoende]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
           <mxGeometry y="180" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-11" value="[Ernstig]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
+          <mxGeometry x="20" y="290" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YQ5rsVeBj5X3KzNJfwbD-4" value="Rechter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="840" y="80" width="200" height="790" as="geometry" />
@@ -1659,6 +1682,17 @@
               <mxPoint x="540" y="275" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MWotaMyhgNjN3c92S6KX-5" target="LnYJTqfKLHf4NxImGPWm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+              <mxPoint x="370" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-16" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="MWotaMyhgNjN3c92S6KX-4" target="LnYJTqfKLHf4NxImGPWm-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
