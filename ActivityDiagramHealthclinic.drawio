@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Opdracht6">
-    <mxGraphModel dx="385" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1779,7 +1779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-68" value="Burger" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="80" width="200" height="1050" as="geometry" />
+          <mxGeometry x="920" y="80" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LnYJTqfKLHf4NxImGPWm-68" source="LnYJTqfKLHf4NxImGPWm-70" target="LnYJTqfKLHf4NxImGPWm-71">
           <mxGeometry relative="1" as="geometry" />
@@ -1824,7 +1824,7 @@
           <mxGeometry x="156.88" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-77" value="Administratie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="80" width="200" height="840" as="geometry" />
+          <mxGeometry x="1120" y="80" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-78" value="Aangifte opslaan" style="" vertex="1" parent="LnYJTqfKLHf4NxImGPWm-77">
           <mxGeometry x="40" y="300" width="120" height="20" as="geometry" />
@@ -1871,7 +1871,7 @@
           <mxGeometry x="130" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-89" value="Politie" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="80" width="200" height="840" as="geometry" />
+          <mxGeometry x="1320" y="80" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-92" value="[Ernstig]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="LnYJTqfKLHf4NxImGPWm-89">
           <mxGeometry x="60" y="290" width="40" height="20" as="geometry" />
@@ -1953,7 +1953,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-99" value="Officier justitie" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="80" width="200" height="840" as="geometry" />
+          <mxGeometry x="1520" y="80" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="-MLGXKqcRwXidnaMO7JU-4" value="Zaak&#xa;overwegen" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=13;spacingBottom=10;" vertex="1" parent="LnYJTqfKLHf4NxImGPWm-99">
           <mxGeometry x="33.12999999999988" y="390" width="113.75" height="80" as="geometry" />
