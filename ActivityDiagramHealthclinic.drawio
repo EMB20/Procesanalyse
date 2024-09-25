@@ -1613,7 +1613,7 @@
           <mxGeometry x="40" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-2" value="Administratie" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="80" width="356.87" height="760" as="geometry" />
+          <mxGeometry x="240" y="80" width="200" height="760" as="geometry" />
         </mxCell>
         <mxCell id="MWotaMyhgNjN3c92S6KX-4" value="Aangifte opslaan" style="" parent="MWotaMyhgNjN3c92S6KX-2" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="20" as="geometry" />
