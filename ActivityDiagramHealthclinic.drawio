@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0O8HOqsrfPeOIN3Mtimj" name="Opdracht4&amp;5">
-    <mxGraphModel dx="1032" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1484,7 +1484,7 @@
           <mxGeometry x="105" y="495" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="imV-cHdlOZaDqWaUKKYc-34" value="PVS applicatie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1260" width="310" height="1130" as="geometry" />
+          <mxGeometry x="1800" y="1260" width="280" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="imV-cHdlOZaDqWaUKKYc-35" value="Login" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;" vertex="1" parent="imV-cHdlOZaDqWaUKKYc-34">
           <mxGeometry x="56.25" y="250" width="87.5" height="60" as="geometry" />
