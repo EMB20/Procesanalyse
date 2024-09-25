@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Opdracht6">
-    <mxGraphModel dx="1313" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2008,7 +2008,7 @@
         <mxCell id="-MLGXKqcRwXidnaMO7JU-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="-MLGXKqcRwXidnaMO7JU-44" source="-MLGXKqcRwXidnaMO7JU-54" target="-MLGXKqcRwXidnaMO7JU-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-MLGXKqcRwXidnaMO7JU-54" value="Maak bezwaar bij&#xa;officier justitie" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;spacingBottom=0;spacingTop=4;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-44">
+        <mxCell id="-MLGXKqcRwXidnaMO7JU-54" value="Maak &#xa;bezwaar bij&#xa;officier justitie" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=12;spacingBottom=14;spacingTop=0;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-44">
           <mxGeometry x="46.56" y="330" width="106.88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MLGXKqcRwXidnaMO7JU-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="-MLGXKqcRwXidnaMO7JU-44" source="-MLGXKqcRwXidnaMO7JU-56" target="-MLGXKqcRwXidnaMO7JU-51">
@@ -2029,7 +2029,7 @@
         <mxCell id="-MLGXKqcRwXidnaMO7JU-60" value="Aangifte opslaan" style="" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-59">
           <mxGeometry x="40" y="300" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-MLGXKqcRwXidnaMO7JU-61" value="Voldoende&#xa;aanknopingspunten" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;spacingBottom=14;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-59">
+        <mxCell id="-MLGXKqcRwXidnaMO7JU-61" value="Voldoende&#xa;aanknopings-&#xa;punten" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=12;spacingBottom=0;spacingTop=4;spacingLeft=2;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-59">
           <mxGeometry x="46.56" y="150" width="106.88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MLGXKqcRwXidnaMO7JU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-MLGXKqcRwXidnaMO7JU-59" source="-MLGXKqcRwXidnaMO7JU-61" target="-MLGXKqcRwXidnaMO7JU-65">
@@ -2130,7 +2130,7 @@
         <mxCell id="-MLGXKqcRwXidnaMO7JU-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="-MLGXKqcRwXidnaMO7JU-92" source="-MLGXKqcRwXidnaMO7JU-81" target="-MLGXKqcRwXidnaMO7JU-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-MLGXKqcRwXidnaMO7JU-81" value="Verdachte(n)&#xa;vervolgen" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=13;spacingBottom=0;spacingTop=3;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-92">
+        <mxCell id="-MLGXKqcRwXidnaMO7JU-81" value="Verdachte(n)&#xa;vervolgen" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=13;spacingBottom=0;spacingTop=5;spacingLeft=2;" vertex="1" parent="-MLGXKqcRwXidnaMO7JU-92">
           <mxGeometry x="46.580000000000005" y="620" width="106.87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MLGXKqcRwXidnaMO7JU-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="-MLGXKqcRwXidnaMO7JU-92" source="-MLGXKqcRwXidnaMO7JU-104" target="-MLGXKqcRwXidnaMO7JU-107">
