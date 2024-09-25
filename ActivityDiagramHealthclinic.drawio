@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rPwnN9iXj3nv4Jy3HGWb" name="Opdracht6">
-    <mxGraphModel dx="527" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="497" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1647,9 +1647,6 @@
         <mxCell id="9-VKJxjSEDxme5Yo28eO-2" value="[Voldoende]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
           <mxGeometry x="200" y="170" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LnYJTqfKLHf4NxImGPWm-11" value="[Ernstig]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MWotaMyhgNjN3c92S6KX-2">
-          <mxGeometry x="220" y="280" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MWotaMyhgNjN3c92S6KX-2" source="MWotaMyhgNjN3c92S6KX-5" target="LnYJTqfKLHf4NxImGPWm-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1667,6 +1664,24 @@
         </mxCell>
         <mxCell id="YQ5rsVeBj5X3KzNJfwbD-3" value="Politie" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YQ5rsVeBj5X3KzNJfwbD-3" source="LnYJTqfKLHf4NxImGPWm-22" target="LnYJTqfKLHf4NxImGPWm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-22" value="Aangifte onderzoeken" style="" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
+          <mxGeometry x="40" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-11" value="[Ernstig]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
+          <mxGeometry x="40" y="290" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-24" value="Proces-verbaal&#xa;voorleggen" style="" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
+          <mxGeometry x="40" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YQ5rsVeBj5X3KzNJfwbD-3" source="LnYJTqfKLHf4NxImGPWm-26" target="LnYJTqfKLHf4NxImGPWm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-26" value="Verdachte(n) &#xa;aanhouden" style="" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-3">
+          <mxGeometry x="40" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YQ5rsVeBj5X3KzNJfwbD-4" value="Rechter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="840" y="80" width="200" height="790" as="geometry" />
@@ -1691,12 +1706,18 @@
         <mxCell id="YQ5rsVeBj5X3KzNJfwbD-1" value="Officier justitie" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="640" y="80" width="200" height="760" as="geometry" />
         </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-29" value="Verdachte(n)&#xa;vervolgen" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=13;spacingBottom=0;spacingTop=3;" vertex="1" parent="YQ5rsVeBj5X3KzNJfwbD-1">
+          <mxGeometry x="43.13" y="460" width="113.75" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="LnYJTqfKLHf4NxImGPWm-16" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="MWotaMyhgNjN3c92S6KX-4" target="LnYJTqfKLHf4NxImGPWm-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LnYJTqfKLHf4NxImGPWm-23" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MWotaMyhgNjN3c92S6KX-5" target="LnYJTqfKLHf4NxImGPWm-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
