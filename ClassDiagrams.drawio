@@ -436,6 +436,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3jXF7FKJyRYXRSG_yNN2-13" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3jXF7FKJyRYXRSG_yNN2-15" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
