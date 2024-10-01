@@ -211,7 +211,7 @@
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="06RtkdYQPRyQ4dyFY1Rv-21" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="630" width="10" height="12.5" as="geometry" />
+          <mxGeometry x="200" y="630" width="20" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="06RtkdYQPRyQ4dyFY1Rv-24" value="Is deel van" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="630" width="60" height="12.5" as="geometry" />
@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="06RtkdYQPRyQ4dyFY1Rv-28" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="630" width="10" height="12.5" as="geometry" />
+          <mxGeometry x="420" y="630" width="20" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="06RtkdYQPRyQ4dyFY1Rv-30" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="550" width="10" height="20" as="geometry" />
