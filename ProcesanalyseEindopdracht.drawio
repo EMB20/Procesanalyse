@@ -552,16 +552,16 @@
             <mxRectangle width="240" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ucD1YGEUN5kKm_k7KVbu-31" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ucD1YGEUN5kKm_k7KVbu-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="80" width="370" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ucD1YGEUN5kKm_k7KVbu-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-31">
+        <mxCell id="ucD1YGEUN5kKm_k7KVbu-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-32">
           <mxGeometry x="130" y="30" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ucD1YGEUN5kKm_k7KVbu-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-31">
+        <mxCell id="ucD1YGEUN5kKm_k7KVbu-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-32">
           <mxGeometry y="30" width="130" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="o1Ltp1BW4cdMwZzKomu5-1" value="Usecase Bier afrekenen" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillColor=#B6BCE6;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-31">
+        <mxCell id="o1Ltp1BW4cdMwZzKomu5-1" value="Usecase Bier afrekenen" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillColor=#B6BCE6;" vertex="1" parent="ucD1YGEUN5kKm_k7KVbu-32">
           <mxGeometry width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="o1Ltp1BW4cdMwZzKomu5-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="o1Ltp1BW4cdMwZzKomu5-1">
