@@ -189,6 +189,12 @@
         <mxCell id="kBVE25HyxopSDAaRqCSE-8" value="Is deel van" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="520" width="70" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="kBVE25HyxopSDAaRqCSE-9" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kBVE25HyxopSDAaRqCSE-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="490" width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
