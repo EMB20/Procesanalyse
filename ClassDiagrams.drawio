@@ -658,7 +658,7 @@
         <mxCell id="xbhht5P9dtaYOHpIXuvq-17" value="Titel: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;connectable=0;" vertex="1" parent="xbhht5P9dtaYOHpIXuvq-16">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xbhht5P9dtaYOHpIXuvq-18" value="Copyright-datum: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;connectable=0;" vertex="1" parent="xbhht5P9dtaYOHpIXuvq-16">
+        <mxCell id="xbhht5P9dtaYOHpIXuvq-18" value="Copyright-datum: Date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;connectable=0;" vertex="1" parent="xbhht5P9dtaYOHpIXuvq-16">
           <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xbhht5P9dtaYOHpIXuvq-19" value="Formaat: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;connectable=0;" vertex="1" parent="xbhht5P9dtaYOHpIXuvq-16">
