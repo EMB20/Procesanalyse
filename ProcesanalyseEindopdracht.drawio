@@ -213,6 +213,9 @@
         <mxCell id="GBg5rzNe_zfA7gAcdMBT-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Use Case Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="-2338" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GBg5rzNe_zfA7gAcdMBT-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Use Case diagram webshop speciaal bieren&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-2270" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
