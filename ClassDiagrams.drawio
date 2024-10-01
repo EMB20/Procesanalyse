@@ -186,6 +186,9 @@
             <mxPoint x="430" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kBVE25HyxopSDAaRqCSE-8" value="Is deel van" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="520" width="70" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
