@@ -904,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gA0VIBcnyR9poYMWK6n9" name="Activity_diagram">
-    <mxGraphModel dx="-112" dy="-734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="266" dy="-504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
           <mxGeometry x="947" y="1169" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0QsNTVg4xFLmqcUsQrwb-1" value="Eigenaar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1280" width="400" height="920" as="geometry" />
+          <mxGeometry x="1360" y="1280" width="200" height="780" as="geometry" />
         </mxCell>
         <mxCell id="1_5pPAB7s1MjMHe08YmW-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="0QsNTVg4xFLmqcUsQrwb-1">
           <mxGeometry x="85" y="30" width="30" height="30" as="geometry" />
@@ -1034,13 +1034,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1_5pPAB7s1MjMHe08YmW-1" value="Webshop" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1280" width="200" height="920" as="geometry" />
+          <mxGeometry x="1560" y="1280" width="200" height="780" as="geometry" />
         </mxCell>
         <mxCell id="mL5S8qpKyS5hILpicetC-30" value="Login correct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-1">
           <mxGeometry x="30" y="330" width="63.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1_5pPAB7s1MjMHe08YmW-2" value="Klant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1280" width="200" height="920" as="geometry" />
+          <mxGeometry x="1760" y="1280" width="200" height="780" as="geometry" />
         </mxCell>
         <mxCell id="5PVrnjoNffVM5xzWWrj8-1" value="Klant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1280" width="200" height="1370" as="geometry" />
