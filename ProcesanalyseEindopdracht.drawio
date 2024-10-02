@@ -542,7 +542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CrHNw--yrdPBdT4KoOjy" name="Usecase_tabel">
-    <mxGraphModel dx="1201" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,110 +562,110 @@
           <mxGeometry y="30" width="170" height="840" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-8" value="Usecase Inloggen" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillColor=#B3C9F5;" parent="SaTZheTWzhHPIAsNPDWv-3" vertex="1">
-          <mxGeometry width="480" height="869.0000000000006" as="geometry" />
+          <mxGeometry width="480" height="870.0000000000006" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="30" width="480" height="39" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-10" value="Naam" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBackgroundColor=none;" parent="P-Ha4DAbmaJqZrZzFCyN-9" vertex="1">
-          <mxGeometry width="169" height="39" as="geometry">
-            <mxRectangle width="169" height="39" as="alternateBounds" />
+          <mxGeometry width="170" height="39" as="geometry">
+            <mxRectangle width="170" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-11" value="Inloggen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-9" vertex="1">
-          <mxGeometry x="169" width="311" height="39" as="geometry">
-            <mxRectangle width="311" height="39" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="39" as="geometry">
+            <mxRectangle width="310" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="69" width="480" height="42" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-13" value="Versie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBackgroundColor=none;" parent="P-Ha4DAbmaJqZrZzFCyN-12" vertex="1">
-          <mxGeometry width="169" height="42" as="geometry">
-            <mxRectangle width="169" height="42" as="alternateBounds" />
+          <mxGeometry width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-14" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-12" vertex="1">
-          <mxGeometry x="169" width="311" height="42" as="geometry">
-            <mxRectangle width="311" height="42" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="42" as="geometry">
+            <mxRectangle width="310" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="111" width="480" height="38" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-16" value="Actor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-15" vertex="1">
-          <mxGeometry width="169" height="38" as="geometry">
-            <mxRectangle width="169" height="38" as="alternateBounds" />
+          <mxGeometry width="170" height="38" as="geometry">
+            <mxRectangle width="170" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-17" value="Klant" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-15" vertex="1">
-          <mxGeometry x="169" width="311" height="38" as="geometry">
-            <mxRectangle width="311" height="38" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="38" as="geometry">
+            <mxRectangle width="310" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="149" width="480" height="41" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-19" value="Preconditie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-18" vertex="1">
-          <mxGeometry width="169" height="41" as="geometry">
-            <mxRectangle width="169" height="41" as="alternateBounds" />
+          <mxGeometry width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-20" value="Klant wil inloggen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-18" vertex="1">
-          <mxGeometry x="169" width="311" height="41" as="geometry">
-            <mxRectangle width="311" height="41" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="41" as="geometry">
+            <mxRectangle width="310" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="190" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-22" value="Beschrijving" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=middle;" parent="P-Ha4DAbmaJqZrZzFCyN-21" vertex="1">
-          <mxGeometry width="169" height="120" as="geometry">
-            <mxRectangle width="169" height="120" as="alternateBounds" />
+          <mxGeometry width="170" height="120" as="geometry">
+            <mxRectangle width="170" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-23" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;background-color: initial; width: 272pt;&quot; width=&quot;362&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 272pt;&quot; width=&quot;362&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt; width: 272pt;&quot; width=&quot;362&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;1. Klant gaat inloggen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;a. ga naar inloggen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;b. vul accountnaam in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;c. vul wachtwoord in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;d. klik log in&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="P-Ha4DAbmaJqZrZzFCyN-21" vertex="1">
-          <mxGeometry x="169" width="311" height="120" as="geometry">
-            <mxRectangle width="311" height="120" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="120" as="geometry">
+            <mxRectangle width="310" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-24" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="310" width="480" height="469" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-25" value="Uitzonderingen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-24" vertex="1">
-          <mxGeometry width="169" height="469" as="geometry">
-            <mxRectangle width="169" height="469" as="alternateBounds" />
+          <mxGeometry width="170" height="469" as="geometry">
+            <mxRectangle width="170" height="469" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-26" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;table style=&quot;width: 272pt;&quot; width=&quot;362&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;2. Klant heeft geen account&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;a. ga naar inloggen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;b. vul accountnaam in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;c. vul wachtwoord in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;d. klik log in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;e. melding account bestaat niet&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;f. selecteer maak nieuw account aan&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl66&quot; height=&quot;19&quot;&gt;g. vul emailadres in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;h. vul accountnaam in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;i. bedenk wachtwoord&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;j. herhaal wachtwoord&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;k. klik maak account aan&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;l. bevestig account in emailadres&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;m. scenario 1&lt;br&gt;3. Klant heeft verkeerd wachtwoord&lt;br&gt;a. ga naar inloggen&lt;br&gt;b. vul accountnaam in&lt;br&gt;c. vul wachtwoord in&lt;br&gt;d. klik log in&lt;br&gt;e. melding verkeerd wachtwoord&lt;br&gt;f. maak nieuw wachtwoord aan&lt;br&gt;g. scenario 1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="P-Ha4DAbmaJqZrZzFCyN-24" vertex="1">
-          <mxGeometry x="169" width="311" height="469" as="geometry">
-            <mxRectangle width="311" height="469" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="469" as="geometry">
+            <mxRectangle width="310" height="469" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
           <mxGeometry y="779" width="480" height="48" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-28" value="Niet-functionele eisen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;" parent="P-Ha4DAbmaJqZrZzFCyN-27" vertex="1">
-          <mxGeometry width="169" height="48" as="geometry">
-            <mxRectangle width="169" height="48" as="alternateBounds" />
+          <mxGeometry width="170" height="48" as="geometry">
+            <mxRectangle width="170" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-29" value="Klant kan binnen 5 minuten inloggen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="P-Ha4DAbmaJqZrZzFCyN-27" vertex="1">
-          <mxGeometry x="169" width="311" height="48" as="geometry">
-            <mxRectangle width="311" height="48" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="48" as="geometry">
+            <mxRectangle width="310" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="P-Ha4DAbmaJqZrZzFCyN-8" vertex="1">
-          <mxGeometry y="827" width="480" height="42" as="geometry" />
+          <mxGeometry y="827" width="480" height="43" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-31" value="Postconditie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;" parent="P-Ha4DAbmaJqZrZzFCyN-30" vertex="1">
-          <mxGeometry width="169" height="42" as="geometry">
-            <mxRectangle width="169" height="42" as="alternateBounds" />
+          <mxGeometry width="170" height="43" as="geometry">
+            <mxRectangle width="170" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-32" value="Klant is ingelogd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="P-Ha4DAbmaJqZrZzFCyN-30" vertex="1">
-          <mxGeometry x="169" width="311" height="42" as="geometry">
-            <mxRectangle width="311" height="42" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="43" as="geometry">
+            <mxRectangle width="310" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SaTZheTWzhHPIAsNPDWv-4" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -800,111 +800,111 @@
           <mxGeometry y="30" width="480" height="39" as="geometry" />
         </mxCell>
         <mxCell id="MKM45kTXKBQ6OX8jQ4-n-2" value="Naam" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBackgroundColor=none;" parent="MKM45kTXKBQ6OX8jQ4-n-1" vertex="1">
-          <mxGeometry width="169" height="39" as="geometry">
-            <mxRectangle width="169" height="39" as="alternateBounds" />
+          <mxGeometry width="170" height="39" as="geometry">
+            <mxRectangle width="170" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MKM45kTXKBQ6OX8jQ4-n-3" value="Bier afrekenen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="MKM45kTXKBQ6OX8jQ4-n-1" vertex="1">
-          <mxGeometry x="169" width="311" height="39" as="geometry">
-            <mxRectangle width="311" height="39" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="39" as="geometry">
+            <mxRectangle width="310" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="69" width="480" height="37" as="geometry" />
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-7" value="Versie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBackgroundColor=none;" parent="xZm82SeSca2BHBsAmzLU-6" vertex="1">
-          <mxGeometry width="169" height="37" as="geometry">
-            <mxRectangle width="169" height="37" as="alternateBounds" />
+          <mxGeometry width="170" height="37" as="geometry">
+            <mxRectangle width="170" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-8" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-6" vertex="1">
-          <mxGeometry x="169" width="311" height="37" as="geometry">
-            <mxRectangle width="311" height="37" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="37" as="geometry">
+            <mxRectangle width="310" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="106" width="480" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-11" value="Actor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-10" vertex="1">
-          <mxGeometry width="169" height="39" as="geometry">
-            <mxRectangle width="169" height="39" as="alternateBounds" />
+          <mxGeometry width="170" height="39" as="geometry">
+            <mxRectangle width="170" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-12" value="Klant" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-10" vertex="1">
-          <mxGeometry x="169" width="311" height="39" as="geometry">
-            <mxRectangle width="311" height="39" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="39" as="geometry">
+            <mxRectangle width="310" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bZOP4QWzZSwS8AXlGsrn-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="145" width="480" height="59" as="geometry" />
         </mxCell>
         <mxCell id="bZOP4QWzZSwS8AXlGsrn-24" value="Preconditie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="bZOP4QWzZSwS8AXlGsrn-23" vertex="1">
-          <mxGeometry width="169" height="59" as="geometry">
-            <mxRectangle width="169" height="59" as="alternateBounds" />
+          <mxGeometry width="170" height="59" as="geometry">
+            <mxRectangle width="170" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bZOP4QWzZSwS8AXlGsrn-25" value="Klant wil bier bestellen en afrekenen en heeft bier geselecteerd" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="bZOP4QWzZSwS8AXlGsrn-23" vertex="1">
-          <mxGeometry x="169" width="311" height="59" as="geometry">
-            <mxRectangle width="311" height="59" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="59" as="geometry">
+            <mxRectangle width="310" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="204" width="480" height="215" as="geometry" />
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-22" value="Beschrijving" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;verticalAlign=middle;" parent="xZm82SeSca2BHBsAmzLU-21" vertex="1">
-          <mxGeometry width="169" height="215" as="geometry">
-            <mxRectangle width="169" height="215" as="alternateBounds" />
+          <mxGeometry width="170" height="215" as="geometry">
+            <mxRectangle width="170" height="215" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-23" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;width: 272pt;&quot; width=&quot;362&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt; width: 272pt;&quot; width=&quot;362&quot; class=&quot;xl64&quot; height=&quot;19&quot;&gt;1. Klant&lt;br&gt;gaat bier kopen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;a. klik op afrekenen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;b. log in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;c. vul leveringsadres in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;d. kies leveringsmethode&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;e. kies of het als cadeau&lt;br&gt;verpakt moet worden&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;f. betaal&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl63&quot; height=&quot;19&quot;&gt;g. laat review achter (ja/nee)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="xZm82SeSca2BHBsAmzLU-21" vertex="1">
-          <mxGeometry x="169" width="311" height="215" as="geometry">
-            <mxRectangle width="311" height="215" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="215" as="geometry">
+            <mxRectangle width="310" height="215" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="419" width="480" height="524" as="geometry" />
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-19" value="Uitzonderingen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-18" vertex="1">
-          <mxGeometry width="169" height="524" as="geometry">
-            <mxRectangle width="169" height="524" as="alternateBounds" />
+          <mxGeometry width="170" height="524" as="geometry">
+            <mxRectangle width="170" height="524" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZm82SeSca2BHBsAmzLU-20" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;table style=&quot;width: 272pt;&quot; width=&quot;362&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 272pt;&quot; width=&quot;362&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt; width: 272pt;&quot; width=&quot;362&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;2. Klant&lt;br&gt;heeft geen account&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;a. klik op afrekenen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;b. log in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;c. melding geen account&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;d. maak account aan&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;e. scenario 1 vanaf b&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;3. Klant heeft onvoldoende saldo&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;a. klik op afrekenen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;b. log in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;c. vul leveringsadres in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;d. kies leveringsmethode&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;e. kies of het als cadeau&lt;br&gt;verpakt moet worden&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;f. betaal&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;g. melding onvoldoende saldo&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;h. kies andere betaal methode&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;i. betaal&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;j. laat review achter (ja/nee)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;4. Klant niet 18&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;a. klik op afrekenen&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;b. log in&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;c. melding bier kopen onder 18&lt;br&gt;niet mogelijk&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;d. selecteer ander product&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height: 14.4pt;&quot; class=&quot;xl65&quot; height=&quot;19&quot;&gt;e. scenario 1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="xZm82SeSca2BHBsAmzLU-18" vertex="1">
-          <mxGeometry x="169" width="311" height="524" as="geometry">
-            <mxRectangle width="311" height="524" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="524" as="geometry">
+            <mxRectangle width="310" height="524" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="943" width="480" height="61" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-2" value="Niet-functionele eisen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;" parent="P-Ha4DAbmaJqZrZzFCyN-1" vertex="1">
-          <mxGeometry width="169" height="61" as="geometry">
-            <mxRectangle width="169" height="61" as="alternateBounds" />
+          <mxGeometry width="170" height="61" as="geometry">
+            <mxRectangle width="170" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-3" value="Transactie moet binnen 5 minuten&amp;nbsp;&lt;div&gt;afgerond kunnen zijn&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="P-Ha4DAbmaJqZrZzFCyN-1" vertex="1">
-          <mxGeometry x="169" width="311" height="61" as="geometry">
-            <mxRectangle width="311" height="61" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="61" as="geometry">
+            <mxRectangle width="310" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-4" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="xZm82SeSca2BHBsAmzLU-1" vertex="1">
           <mxGeometry y="1004" width="480" height="66" as="geometry" />
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-5" value="Postconditie" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;" parent="P-Ha4DAbmaJqZrZzFCyN-4" vertex="1">
-          <mxGeometry width="169" height="66" as="geometry">
-            <mxRectangle width="169" height="66" as="alternateBounds" />
+          <mxGeometry width="170" height="66" as="geometry">
+            <mxRectangle width="170" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-Ha4DAbmaJqZrZzFCyN-6" value="Klant heeft betaald en heeft als gewenst review achtergelaten" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" parent="P-Ha4DAbmaJqZrZzFCyN-4" vertex="1">
-          <mxGeometry x="169" width="311" height="66" as="geometry">
-            <mxRectangle width="311" height="66" as="alternateBounds" />
+          <mxGeometry x="170" width="310" height="66" as="geometry">
+            <mxRectangle width="310" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gA0VIBcnyR9poYMWK6n9" name="Activity_diagram">
-    <mxGraphModel dx="-8" dy="-655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="299" dy="-463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
