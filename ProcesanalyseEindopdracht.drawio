@@ -904,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gA0VIBcnyR9poYMWK6n9" name="Activity_diagram">
-    <mxGraphModel dx="460" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-106" dy="-717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1311,7 +1311,7 @@
         <mxCell id="qk5XeCxnc_Sfua8Je4zX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5PVrnjoNffVM5xzWWrj8-1" source="qk5XeCxnc_Sfua8Je4zX-1" target="qk5XeCxnc_Sfua8Je4zX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5PVrnjoNffVM5xzWWrj8-2" value="&lt;font color=&quot;#000000&quot;&gt;Webshop&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;resizable=1;collapsible=0;fillColor=#97D077;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="5PVrnjoNffVM5xzWWrj8-2" value="&lt;font color=&quot;#000000&quot;&gt;Webshop&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;resizable=1;collapsible=0;fillColor=#97D077;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1280" width="200" height="1390" as="geometry" />
         </mxCell>
         <mxCell id="5PVrnjoNffVM5xzWWrj8-6" value="Toon producten" style="" vertex="1" parent="5PVrnjoNffVM5xzWWrj8-2">
