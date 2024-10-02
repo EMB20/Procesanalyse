@@ -895,7 +895,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gA0VIBcnyR9poYMWK6n9" name="Activity_diagram">
-    <mxGraphModel dx="102" dy="-604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="58" dy="-631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -950,6 +950,9 @@
         <mxCell id="mL5S8qpKyS5hILpicetC-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="0QsNTVg4xFLmqcUsQrwb-1">
           <mxGeometry x="40" y="630" width="120" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="mL5S8qpKyS5hILpicetC-30" value="Login correct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="0QsNTVg4xFLmqcUsQrwb-1">
+          <mxGeometry x="100" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="1_5pPAB7s1MjMHe08YmW-1" value="Webshop" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1280" width="200" height="710" as="geometry" />
         </mxCell>
@@ -962,6 +965,9 @@
         <mxCell id="mL5S8qpKyS5hILpicetC-21" value="Acceptatie notificatie&#xa;versturen" style="" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-1">
           <mxGeometry x="33.75" y="570" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mL5S8qpKyS5hILpicetC-31" value="Login incorrect" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-1">
+          <mxGeometry x="83.75" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="1_5pPAB7s1MjMHe08YmW-2" value="Klant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1280" width="200" height="710" as="geometry" />
         </mxCell>
@@ -973,6 +979,12 @@
         </mxCell>
         <mxCell id="mL5S8qpKyS5hILpicetC-18" value="Uitnodiging&#xa;accepteren" style="rhombus;fillColor=default;strokeColor=default;shadow=0;fontSize=11;" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-2">
           <mxGeometry x="56.25" y="520" width="87.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mL5S8qpKyS5hILpicetC-32" value="Accepteren" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-2">
+          <mxGeometry y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mL5S8qpKyS5hILpicetC-33" value="Niet accepteren" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1_5pPAB7s1MjMHe08YmW-2">
+          <mxGeometry x="20" y="590" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5PVrnjoNffVM5xzWWrj8-1" value="Klant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1280" width="200" height="1370" as="geometry" />
